@@ -1,0 +1,3 @@
+/home/pi/releas/build/CMakeFiles/rebuild_cache.dir
+/home/pi/releas/build/CMakeFiles/edit_cache.dir
+/home/pi/releas/build/CMakeFiles/releas.dir
